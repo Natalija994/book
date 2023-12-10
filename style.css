@@ -1,0 +1,77 @@
+html{
+
+    background-image: url( "https://wallpaperaccess.com/full/803119.jpg");
+    height: 300px;
+    width: auto;
+
+    
+}
+
+h1{color: black;
+margin-left: 500px;
+border-color: black;
+background-color: aliceblue; width: auto ; margin-right: 700px;}
+
+footer{
+    height: 1cm;
+    background-color: aliceblue;
+}
+
+
+h2{
+    margin-left: 500px;
+}
+
+
+div{
+    margin-left: 220px;
+    border color: black;
+    border height: 50px;
+    padding: auto;
+    
+    
+}
+
+hr{
+   
+    line-height: 10px;
+    background-color: aliceblue;
+}
+
+p{
+   font-family: 'Poppins', sans-serif;
+   font-family: 'Raleway', sans-serif;
+   font-family: 'Roboto', sans-serif; 
+   font-size: 150%;
+   margin-left: 20%;
+   margin-right:25%;
+   text-decoration: double;
+   text-align: center;
+   border-left: 20px;
+   height: 350px;
+   margin-top: 5%;
+
+
+
+}
+
+header{
+   background-color: aliceblue;
+   height: 10%;
+   text-align: center;
+   margin-top: 20%;
+   width: auto;
+   font-size: 8px;
+   
+}
+
+h1{
+    font size: 1px;
+    width: 100px;
+    
+}
+
+
+
+
+
